@@ -1,0 +1,15 @@
+.star {
+  position: fixed;
+  top: 1em;
+  right: 1em;
+}
+
+.body {
+  font-family: 'Hedvig Letters Serif', serif !important;
+}
+
+h1 {
+  text-transform: none !important;
+  font-family: 'Hedvig Letters Serif', serif !important;
+
+}
